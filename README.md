@@ -1,6 +1,6 @@
 # High-Power Laser Tube Project
 
-This repository contains the necessary files to build and understand a high-power laser tube, including STL files for 3D printing, CAD files for the full assembly, and a detailed schematic of the circuit. This project is designed for educational and experimental purposes only.
+This repository contains the necessary files to build and understand a 40 W high-power laser tube, including STL files for 3D printing, CAD files for the full assembly, and a detailed schematic of the circuit. This project is designed for educational and experimental purposes only.
 
 ---
 
