@@ -22,7 +22,7 @@ This repository contains the necessary files to build and understand a high-powe
 ![Laser Tube Assembly](./Laser_Tube_40W_2024-Dec-28_06-48-12PM-000_CustomizedView1439773068_png.png)
 
 ### Full Laser Setup
-![Full Laser Setup](./041b181b-839a-4aa6-854f-b7623b3745de)
+![Full Laser Setup](./assemply.png)
 
 ### Circuit Diagram
 ![Circuit Diagram](./Scheme-it-export-New-Project-2024-12-28-22-01.png)
