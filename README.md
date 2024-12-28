@@ -1,7 +1,7 @@
 # Create a Markdown file for the GitHub description with image links
 
 # Define the content of the Markdown file
-markdown_content = """
+
 # High-Power Laser Tube Project
 
 This repository contains the necessary files to build and understand a high-power laser tube, including STL files for 3D printing, CAD files for the full assembly, and a detailed schematic of the circuit. This project is designed for educational and experimental purposes only.
@@ -26,7 +26,7 @@ This repository contains the necessary files to build and understand a high-powe
 ![Laser Tube Assembly](./Laser_Tube_40W_2024-Dec-28_06-48-12PM-000_CustomizedView1439773068_png.png)
 
 ### Full Laser Setup
-![Full Laser Setup](./Laser_Tube_40W_2024-Dec-28_06-48-12PM-000_CustomizedView1439773068_png.png)
+![Full Laser Setup](041b181b-839a-4aa6-854f-b7623b3745de)
 
 ### Circuit Diagram
 ![Circuit Diagram](./Scheme-it-export-New-Project-2024-12-28-22-01.png)
