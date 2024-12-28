@@ -50,14 +50,4 @@ This project involves working with high-voltage electrical circuits and lasers, 
 2. **Legal Compliance**: Ensure that building and using this device complies with local laws and regulations regarding lasers and high-voltage equipment.
 3. **Testing**: Test the device in a controlled environment, away from flammable materials and unprotected individuals.
 
----
 
-Feel free to suggest edits or updates for this description! 
-"""
-
-# Save the content to a Markdown file
-file_path = "/mnt/data/High_Power_Laser_Tube_Project.md"
-with open(file_path, "w") as file:
-    file.write(markdown_content)
-
-file_path
